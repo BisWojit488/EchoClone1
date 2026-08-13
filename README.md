@@ -32,7 +32,3 @@ Only use reference voices that you own or have permission to clone.
 ## Model files
 
 Pretrained model files are downloaded when the application first needs them. They are intentionally excluded from version control because of their size.
-
-## License
-
-The project includes upstream MIT-licensed components. Their license and copyright notices are retained in `LICENSE`, `synthesizer/LICENSE.txt`, and `vocoder/LICENSE.txt`.
